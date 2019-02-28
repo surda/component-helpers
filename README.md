@@ -1,5 +1,11 @@
 # Component helpers
 
+-----
+[![Build Status](https://travis-ci.org/surda/component-helpers.svg?branch=master)](https://travis-ci.org/surda/component-helpers)
+[![Licence](https://img.shields.io/packagist/l/contributte/di.svg?style=flat-square)](https://packagist.org/packages/contributte/di)
+[![Latest stable](https://img.shields.io/packagist/v/surda/component-helpers.svg?style=flat-square)](https://packagist.org/packages/surda/component-helpers)
+[![PHPStan](https://img.shields.io/badge/PHPStan-enabled-brightgreen.svg?style=flat)](https://github.com/phpstan/phpstan)
+
 ## Installation
 
 The recommended way to is via Composer:
